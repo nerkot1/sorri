@@ -1,0 +1,50 @@
+.imgs img {
+    width: 300px;
+    height: 450px;
+    text-align: center;
+    border-radius: 5em;
+
+}
+.imgs {
+    position: relative;
+    text-align: center;
+}
+.texts {
+    color: brown;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+.textA {
+}
+.textB {
+    visibility: hidden;
+    margin-top: -60px;
+}
+.textC {
+    visibility: hidden;
+    margin-top: -70px;
+}
+.textD {
+    visibility: hidden;
+    margin-top: -70px;
+}
+.textI {
+    visibility: hidden;
+    margin-top: -70px;
+}
+.textH {
+    visibility: hidden;
+    margin-top: -50px;
+}
+.textQ {
+    visibility: hidden;
+    margin-top: -50px;
+}
+
+.NO {
+    visibility: hidden;
+}
+.YES {
+    visibility: visible;
+}
